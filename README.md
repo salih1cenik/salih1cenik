@@ -22,6 +22,19 @@
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
+
+# Projects
+
+| Project Category | Description | GitHub |
+| --- | --- | --- |
+| *Data Analysis - Python* | Explore various data analysis projects using Python, including data cleaning, visualization, and statistical analysis. | [![GitHub](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github)](https://github.com/huseyincenik/data_science/tree/main) |
+| *Data Analysis - SQL* | Analyze datasets using SQL queries, focusing on extracting valuable insights and trends. | [![GitHub](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github)](https://github.com/huseyincenik/SQL---Structured-Query-Language/tree/main) |
+| *Data Analysis - Tableau* | Utilize Tableau for data visualization and exploration, creating interactive dashboards to convey meaningful information. | [![GitHub](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github)](https://github.com/huseyincenik/tableau) |
+| *Data Analysis - Spreadsheets* | Perform data analysis using spreadsheet tools, demonstrating skills in data manipulation and visualization. | [![GitHub](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github)](https://github.com/huseyincenik/spreadsheets) |
+| *NLP (Natural Language Processing)* | Apply NLP techniques for various projects, including sentiment analysis, text classification, and language modeling. | [![GitHub](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github)](https://github.com/huseyincenik/nlp_natural_language_processing) |
+| *Machine Learning* | Implement machine learning algorithms for various projects, showcasing classification, regression, and clustering models. | [![GitHub](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github)](https://github.com/huseyincenik/machine_learning) |
+| *Deep Learning* | Explore deep learning projects, including neural networks and deep neural network architectures, for tasks such as image recognition and natural language processing. | [![GitHub](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github)](https://github.com/huseyincenik/deep_learning) |
+
 [![](https://visitcount.itsvg.in/api?id=salih1cenik&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
