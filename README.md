@@ -12,6 +12,14 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=salih1cenik&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=salih1cenik&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# Projects
+
+| Project Category | Description | GitHub |
+| --- | --- | --- |
+| *Bootstrap Linkedin Clone* | This project aims to replicate the functionality and design of LinkedIn using Bootstrap framework. It provides a simplified version of LinkedIn, focusing on basic features and layout adjustments. The project includes tasks such as fixing the navbar, adjusting layout for responsiveness, styling elements, and improving overall user interface. | [![GitHub](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github)](https://github.com/salih1cenik/linkedinclone-patika) |
+| *JavaScript Clock and Greeting* | This project involves creating a simple webpage where users are prompted to enter their name upon entry. After entering their name, the webpage greets them and displays the current time and day. The project aims to provide a fun and interactive way to showcase basic JavaScript skills, including DOM manipulation and date/time functions. While the provided instructions offer a basic framework, participants are encouraged to unleash their creativity and add unique features to enhance the project. | [![GitHub](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github)](https://github.com/salih1cenik/javascriptclock) |
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
